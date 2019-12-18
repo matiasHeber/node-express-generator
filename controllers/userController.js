@@ -1,6 +1,6 @@
 const userController = {
-    register: (req,res) =>{
-        res.render('register')
+    registro: (req,res) =>{
+        res.render('registro')
     }
 }
 
